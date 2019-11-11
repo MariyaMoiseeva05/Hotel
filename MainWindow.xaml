@@ -1,0 +1,12 @@
+﻿<NavigationWindow  x:Class="Hotel2.MainWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="HotelVelT" Height="450" Width="800" Source="HotelItHome.xaml" Icon="logo.png">
+    
+        
+    <NavigationWindow.Background>
+        <ImageBrush ImageSource="Жемчужина-Северной-Карелии-хрустальное-озеро-Куйто-014.jpg"/>
+    </NavigationWindow.Background>
+  
+
+</NavigationWindow>
